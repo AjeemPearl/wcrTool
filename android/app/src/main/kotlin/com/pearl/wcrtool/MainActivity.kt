@@ -1,4 +1,4 @@
-package com.example.wcrtool
+package com.pearl.wcrtool
 
 import io.flutter.embedding.android.FlutterActivity
 
